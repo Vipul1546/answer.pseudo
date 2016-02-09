@@ -71,7 +71,7 @@ echo "<style>.foot-soc{display:none !important;}</style>";
 } 
 ?>
 <style>
-#site, .main-nav-drop, .fly-but-wrap, #fly-wrap{top:0 !important}
+#site, .main-nav-drop, .fly-but-wrap}
 </style>
 <!--<script type='text/javascript' src='http://pl157190.puhtml.com/77/73/e4/7773e4b5a30060d0f893be6d7be26545.js'></script>-->
 </head>
